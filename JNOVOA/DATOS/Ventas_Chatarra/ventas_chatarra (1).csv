@@ -1,0 +1,97 @@
+﻿Productos,Unidades,Vendedor,Mes,Año,Ciudad,Total_ingresos
+Entradas,1000, Miguel , Enero ,2016, Barranquilla ,1526
+Crispetas,1200, Carlos , Enero ,2016, Medellin ,1223
+Hot Dog,3200, Margarita , Enero ,2016, Bogotá ,3652
+Pizzas,1223, Victoria , Enero ,2016, Cartagena ,4585
+Hamburguesas,4252, Manuel , Enero ,2016, Santa Marta ,6523
+Eventos,1200, Shirley , Enero ,2016, Barranquilla ,1212
+Entradas,3201, Victoria , Febrero ,2016, Medellin ,3263
+Crispetas,4152, Margarita , Febrero ,2016, Bogotá ,3221
+Hot Dog,6325, Miguel , Febrero ,2016, Cartagena ,103
+Pizzas,4152, Carlos , Febrero ,2016, Santa Marta ,320
+Hamburguesas,2145, Shirley , Febrero ,2016, Barranquilla ,120
+Eventos,2132, Manuel , Febrero ,2016, Medellin ,1300
+Entradas,6321, Shirley , Marzo ,2016, Bogotá ,985
+Crispetas,4120, Manuel , Marzo ,2016, Cartagena ,9563
+Hot Dog,3210, Miguel , Marzo ,2016, Santa Marta ,1485
+Pizzas,6321, Carlos , Marzo ,2016, Barranquilla ,6230
+Hamburguesas,1200, Victoria , Marzo ,2016, Medellin ,125
+Eventos,2103, Margarita , Marzo ,2016, Santa Marta ,6233
+Entradas,1420, Carlos , Abril ,2016, Barranquilla ,1200
+Crispetas,1632, Miguel , Abril ,2016, Medellin ,9563
+Hot Dog,1325, Shirley , Abril ,2016, Bogotá ,6522
+Pizzas,1623, Manuel , Abril ,2016, Cartagena ,4563
+Hamburguesas,1000, Margarita , Abril ,2016, Barranquilla ,7412
+Eventos,2541, Victoria , Abril ,2016, Medellin ,3222
+Entradas,2341, Miguel , Mayo ,2016, Bogotá ,1236
+Crispetas,1002, Carlos , Mayo ,2016, Cartagena ,3213
+Hot Dog,2330, Margarita , Mayo ,2017, Santa Marta ,332
+Pizzas,2145, Victoria , Mayo ,2017, Barranquilla ,5663
+Hamburguesas,4512, Manuel , Mayo ,2017, Medellin ,4215
+Eventos,6324, Shirley , Mayo ,2017, Bogotá ,3222
+Entradas,4152, Victoria , Junio ,2017, Cartagena ,2563
+Crispetas,2123, Margarita , Junio ,2017, Santa Marta ,1485
+Hot Dog,3201, Miguel , Junio ,2017, Barranquilla ,1565
+Pizzas,3263, Carlos , Junio ,2017, Medellin ,1785
+Hamburguesas,6325, Shirley , Junio ,2017, Santa Marta ,6321
+Eventos,4152, Manuel , Junio ,2017, Barranquilla ,2352
+Entradas,2145, Shirley , Julio ,2017, Medellin ,6422
+Crispetas,2132, Manuel , Julio ,2017, Bogotá ,1235
+Hot Dog,6321, Miguel , Julio ,2017, Cartagena ,6325
+Pizzas,4120, Carlos , Julio ,2017, Barranquilla ,4512
+Hamburguesas,3210, Victoria , Julio ,2017, Medellin ,6325
+Eventos,6321, Margarita , Julio ,2017, Bogotá ,4444
+Entradas,1200, Carlos , Agosto ,2017, Cartagena ,1845
+Crispetas,2103, Miguel , Agosto ,2017, Barranquilla ,1250
+Hot Dog,1420, Shirley , Agosto ,2017, Medellin ,3200
+Pizzas,1632, Manuel , Agosto ,2017, Bogotá ,1450
+Hamburguesas,1325, Margarita , Agosto ,2017, Cartagena ,6233
+Eventos,1623, Victoria , Agosto ,2017, Santa Marta ,2458
+Entradas,5236, Miguel , Septiembre ,2017, Barranquilla ,4512
+Crispetas,2321, Carlos , Septiembre ,2017, Barranquilla ,6235
+Hot Dog,512, Margarita , Septiembre ,2017, Medellin ,1252
+Pizzas,120, Victoria , Septiembre ,2017, Bogotá ,1336
+Hamburguesas,325, Manuel , Septiembre ,2017, Cartagena ,1300
+Eventos,2130, Shirley , Septiembre ,2017, Santa Marta ,985
+Entradas,3256, Victoria , Octubre ,2017, Medellin ,9563
+Crispetas,1452, Margarita , Octubre ,2017, Bogotá ,1485
+Hot Dog,1623, Miguel , Octubre ,2017, Cartagena ,6230
+Pizzas,5236, Carlos , Octubre ,2018, Santa Marta ,125
+Hamburguesas,2321, Shirley , Octubre ,2018, Barranquilla ,6233
+Eventos,512, Manuel , Octubre ,2018, Barranquilla ,1200
+Entradas,120, Shirley , Noviembre ,2018, Medellin ,9563
+Crispetas,325, Manuel , Noviembre ,2018, Bogotá ,6522
+Hot Dog,2130, Miguel , Noviembre ,2018, Cartagena ,4563
+Pizzas,3256, Carlos , Noviembre ,2018, Santa Marta ,7412
+Hamburguesas,1452, Victoria , Noviembre ,2018, Barranquilla ,3222
+Eventos,1452, Margarita , Noviembre ,2018, Medellin ,1236
+Entradas,1623, Carlos , Diciembre ,2018, Bogotá ,3213
+Crispetas,5236, Miguel , Diciembre ,2018, Cartagena ,3256
+Hot Dog,2321, Shirley , Diciembre ,2018, Santa Marta ,2451
+Pizzas,512, Manuel , Diciembre ,2018, Barranquilla ,4552
+Hamburguesas,120, Margarita , Diciembre ,2018, Medellin ,3211
+Eventos,325, Victoria , Diciembre ,2018, Bogotá ,2212
+Entradas,2130, Miguel , Septiembre ,2018, Cartagena ,3210
+Crispetas,2103, Carlos , Septiembre ,2018, Santa Marta ,1458
+Hot Dog,1420, Margarita , Septiembre ,2018, Barranquilla ,3241
+Pizzas,1632, Victoria , Septiembre ,2018, Medellin ,1020
+Hamburguesas,1325, Manuel , Septiembre ,2018, Bogotá ,3213
+Eventos,1623, Shirley , Septiembre ,2018, Cartagena ,3256
+Entradas,5236, Victoria , Octubre ,2018, Santa Marta ,2451
+Crispetas,2321, Margarita , Octubre ,2018, Barranquilla ,4552
+Hot Dog,512, Miguel , Octubre ,2018, Medellin ,3211
+Pizzas,120, Carlos , Octubre ,2018, Bogotá ,2212
+Hamburguesas,325, Shirley , Octubre ,2018, Cartagena ,3210
+Eventos,2130, Manuel , Octubre ,2018, Santa Marta ,1458
+Entradas,3256, Shirley , Enero ,2018, Barranquilla ,3241
+Crispetas,1452, Manuel , Enero ,2018, Medellin ,1020
+Hot Dog,1623, Miguel , Agosto ,2018, Bogotá ,1458
+Pizzas,5236, Carlos , Julio ,2018, Cartagena ,3241
+Hamburguesas,1326, Victoria , Junio ,2018, Santa Marta ,1020
+Eventos,3251, Margarita , Marzo ,2018, Barranquilla ,3213
+Entradas,1241, Carlos , Marzo ,2018, Medellin ,3256
+Crispetas,1255, Miguel , Abril ,2018, Bogotá ,2451
+Hot Dog,4152, Shirley , Abril ,2018, Cartagena ,4552
+Pizzas,3263, Manuel , Abril ,2018, Santa Marta ,3211
+Hamburguesas,2145, Margarita , Abril ,2018, Barranquilla ,2212
+Eventos,3252, Victoria , Abril ,2018, Medellin ,1213
